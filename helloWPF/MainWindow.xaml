@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="안녕? 헬로우 월드, 황다희" Margin="195,106,0,0" RenderTransformOrigin="0.5,0.5" Height="208" VerticalAlignment="Top" HorizontalAlignment="Left" Width="404" Background="#FFFFAAAA">
+        <Button Content="안녕? 헬로우 월드, 황다희" Margin="195,106,0,0" RenderTransformOrigin="0.5,0.5" Height="208" VerticalAlignment="Top" HorizontalAlignment="Left" Width="404" Background="#FFFFAAAA" Click="Button_Click">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
